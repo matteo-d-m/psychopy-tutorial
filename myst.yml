@@ -1,0 +1,18 @@
+version: 1
+project:
+  id: 3ca2c0ad-2140-40b0-92a9-7496b382f54e
+  toc:
+    - file: 0.0-introduction.md
+    - file: 0.1-what-is-psychopy.md
+    - file: 1.0-stimuli.md
+    - file: 2.0-presentation.md
+    - file: 3.0-conditions.md
+    - file: 4.0-responses.md
+    - file: 5.0-neuroimaging.md
+    - file: 6.0-timing.md
+    - file: 7.0-comments.md
+site:
+  template: book-theme
+  options:
+    favicon: files/coneco.png
+    logo: files/coneco.png
